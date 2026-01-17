@@ -1,0 +1,9 @@
+# dependencies
+node_modules/
+
+# wrangler
+.wrangler/
+.dev.vars
+
+# misc
+.DS_Store

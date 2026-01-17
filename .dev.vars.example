@@ -1,0 +1,2 @@
+# Copy to .dev.vars for local development
+PROXY_SECRET=local-dev-secret
